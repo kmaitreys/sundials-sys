@@ -1,3 +1,5 @@
+#include <sundials/sundials_matrix.h>
+#include <sundials/sundials_context.h>
 #include <nvector/nvector_serial.h>
 #include <sunlinsol/sunlinsol_band.h>
 #include <sunlinsol/sunlinsol_spbcgs.h>
